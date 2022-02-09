@@ -1,6 +1,6 @@
 ---
 title: Simon's adventures
-description: Simon is going to an adventure every day to his way to work
+description: Simon is going to an adventure every day to his way to work.
 author: Simona
 date: 2022-02-09T08:39:19.422Z
 tags:
